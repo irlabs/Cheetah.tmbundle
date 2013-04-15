@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Cheetah</string>
+	<key>ordering</key>
+	<array>
+		<string>6672995E-7AF3-4FE5-9735-2855A08EFCF7</string>
+		<string>D09CAD0A-1362-4434-A4CC-B3D6FBED3DF6</string>
+		<string>2B225AE4-D5B9-4AF4-92A2-830867E05343</string>
+		<string>6D4A78B3-9A62-4ADC-AEC5-0DD3B7D1C5AF</string>
+		<string>ADEDEB8C-08AD-47B4-9467-9E5085798EAF</string>
+		<string>8EAE08B1-CC81-47B5-8655-133C0CA224FD</string>
+		<string>80592B48-D1B6-4151-9E3A-663027486FCA</string>
+		<string>9DD24FCA-A42A-4158-993B-FB3B05DB4736</string>
+		<string>D57F1578-FC8B-4FA2-BFA3-2A789B511FD7</string>
+		<string>A3C6B0BF-E671-4E7A-B89B-006DAE1F5E8E</string>
+	</array>
+	<key>uuid</key>
+	<string>972C4DE7-540D-4B80-A466-A28B9F59673A</string>
+</dict>
+</plist>

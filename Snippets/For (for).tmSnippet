@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#for \$${1:elementName} in \$${2:listName}
+${0:$TM_SELECTED_TEXT}
+#end for</string>
+	<key>name</key>
+	<string>For (for)</string>
+	<key>scope</key>
+	<string>source.cheetah, text.html.cheetah</string>
+	<key>tabTrigger</key>
+	<string>for</string>
+	<key>uuid</key>
+	<string>ADEDEB8C-08AD-47B4-9467-9E5085798EAF</string>
+</dict>
+</plist>

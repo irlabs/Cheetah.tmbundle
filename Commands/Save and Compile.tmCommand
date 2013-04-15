@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string># Save and Compiles the current file
+#
+# Note that this does not work for Save ALl or selecting Save from the File Menu.
+# Only just for apple + S on a Cheetah file
+cheetah compile "$TM_FILEPATH" &gt;/dev/null
+echo Save \&amp; Compile
+</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>~S</string>
+	<key>name</key>
+	<string>Save and Compile</string>
+	<key>output</key>
+	<string>showAsTooltip</string>
+	<key>scope</key>
+	<string>source.cheetah, text.html.cheetah</string>
+	<key>uuid</key>
+	<string>6672995E-7AF3-4FE5-9735-2855A08EFCF7</string>
+</dict>
+</plist>
