@@ -3,7 +3,7 @@ Cheetah.tmbundle
 
 Cheetah Template language bundle for TextMate
 
-This bundle contains some usefull helpers and tools if you work with Cheetah template files (python) and TextMate. Notably there is the option+command+S shortcut to save the `.tmpl` file and compile it to python immediately.
+This bundle contains some usefull helpers and tools if you work with Cheetah template files (python) and TextMate. Notably there is the shift+option+S shortcut to save the `.tmpl` file and compile it to python immediately.
 
 Installation
 ------------
