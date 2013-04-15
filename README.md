@@ -7,7 +7,7 @@ Installation
 ------------
 
 `
-mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-cd ~/Library/Application\ Support/TextMate/Bundles
-git clone git://github.com/irlabs/Cheetah.tmbundle.git Cheetah.tmbundle
+mkdir -p ~/Library/Application\ Support/TextMate/Bundles  
+cd ~/Library/Application\ Support/TextMate/Bundles  
+git clone git://github.com/irlabs/Cheetah.tmbundle.git Cheetah.tmbundle  
 `
